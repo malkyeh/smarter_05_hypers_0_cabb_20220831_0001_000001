@@ -1,0 +1,2 @@
+# smarter_05_hypers_0_cabb_20220831_0001_000001
+苗株多光譜影像資料集 Seedling multi-spectral image dataset
